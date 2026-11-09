@@ -57,6 +57,26 @@
       "source": "/urdu-image-to-text.html",
       "destination": "/urdu-image-to-text",
       "permanent": true
+    },
+    {
+      "source": "/screenshot-to-text.html",
+      "destination": "/screenshot-to-text",
+      "permanent": true
+    },
+    {
+      "source": "/jpg-to-text.html",
+      "destination": "/jpg-to-text",
+      "permanent": true
+    },
+    {
+      "source": "/png-to-text.html",
+      "destination": "/png-to-text",
+      "permanent": true
+    },
+    {
+      "source": "/photo-to-text.html",
+      "destination": "/photo-to-text",
+      "permanent": true
     }
   ],
   "rewrites": [
@@ -87,6 +107,22 @@
     {
       "source": "/urdu-image-to-text",
       "destination": "/urdu-image-to-text.html"
+    },
+    {
+      "source": "/screenshot-to-text",
+      "destination": "/screenshot-to-text.html"
+    },
+    {
+      "source": "/jpg-to-text",
+      "destination": "/jpg-to-text.html"
+    },
+    {
+      "source": "/png-to-text",
+      "destination": "/png-to-text.html"
+    },
+    {
+      "source": "/photo-to-text",
+      "destination": "/photo-to-text.html"
     }
   ],
   "headers": [

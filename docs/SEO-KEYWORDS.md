@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | **Primary** | image to text, image to text converter, convert image to text | `/` | `<title>`, H1 "Free Image to Text Converter", meta description, intro |
 | Secondary OCR | free online OCR, OCR online, extract text from image, photo to text, picture to text | `/` | Title ("Free Online OCR"), description, "How to convert an image to text" |
-| Format-specific | JPG to text, PNG to text, screenshot to text, WebP to text, TIFF to text | `/` | "Supported formats" section, FAQ |
+| Format-specific | JPG to text, PNG to text, screenshot to text, photo to text | `/jpg-to-text`, `/png-to-text`, `/screenshot-to-text`, `/photo-to-text` | Title, H1, format-specific tips and FAQ |
 | Use-case | copy text from screenshot, scanned document to text, extract text from photo | `/` | "What people use it for", "Tips for better results" |
 | Privacy | OCR without upload, private OCR, offline-style browser OCR | `/` | "Private by design" section, FAQ (do **not** claim offline support) |
 | Hindi | Hindi image to text, Hindi OCR, Devanagari OCR, हिंदी इमेज टू टेक्स्ट | `/hindi-image-to-text` | Title, H1, Devanagari tips, Unicode section |

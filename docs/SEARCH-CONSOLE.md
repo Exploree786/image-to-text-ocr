@@ -22,7 +22,7 @@ Preferred: a **Domain** property for `imgtotextocr.com`, verified with a DNS TXT
 
 1. In the property, open **Indexing → Sitemaps**.
 2. Enter `sitemap.xml` and click **Submit**.
-3. The status should become *Success* with 8 discovered URLs. If it shows *Couldn't fetch*, open `https://imgtotextocr.com/sitemap.xml` in a browser and confirm it loads.
+3. The status should become *Success* with 12 discovered URLs. If it shows *Couldn't fetch*, open `https://imgtotextocr.com/sitemap.xml` in a browser and confirm it loads.
 
 ## 3. Inspect and request indexing
 
